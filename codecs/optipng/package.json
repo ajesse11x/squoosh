@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "napa": "3.0.0",
-    "tar-dependency": "0.0.3"
+    "tar-dependency": "0.1.0"
   }
 }
